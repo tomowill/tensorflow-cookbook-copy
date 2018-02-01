@@ -1,3 +1,5 @@
 .DS_Store
+/data
+/img
 /logs
 .ipynb_checkpoints/
